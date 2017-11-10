@@ -17,6 +17,9 @@ Requisitos Funcionais:
 - Emitir alertas quando estiver em estoque com qualquer produto.
 - Emitir alerta de produtos com o mínimo.
 - Permitir uma autenticação por meio de login.
+- O usuário podera ser tanto vendedor  quanto comprador.
+- O usuário podera fazerlogin.
+- O usuario podera colocar informações do produto.
 
 
 
