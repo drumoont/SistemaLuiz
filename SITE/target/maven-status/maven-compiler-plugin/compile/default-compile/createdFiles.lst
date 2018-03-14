@@ -1,0 +1,4 @@
+com/mycompany/site/servlet/LoginServ.class
+com/mycompany/site/util/SessaoHibernate.class
+com/mycompany/site/util/entidades/Cliente.class
+com/mycompany/site/servlet/CadastroServ.class
