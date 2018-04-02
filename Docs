@@ -1,14 +1,3 @@
-Nome: Trocatroca.com
-
-O sitema funciona como um "bazar". Você pode tanto comprar, como também pode vender.
-O usuário, para comprar, precisa ter uma conta e, ao mesmo tempo, também pode enviar um produto, caso ele queira vender algo.
-
-
-
-
-
-
-
 
 Requisitos Funcionais:
 - O sistema deve permitir uma inclusão e remoção de produto da lista de desejos.
@@ -27,5 +16,4 @@ Requisitos Funcionais:
 Requisitos Não-Funcionais:
 - Os alertas podem ser enviados via e-mail, SMS, etc.
 - O banco de dados do estoque desenvolvido em tempo real.
-- O tempo de resposta do sistema não desenvolvido ultrapassar 30 segundos.
 - O sistema deve ser executável em qualquer plataforma.
